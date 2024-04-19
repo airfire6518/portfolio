@@ -56,4 +56,4 @@
 
 
 
-![SUSS](/assets/img/SUSS.jpg)
+![SUSS](/assets/img/SUSS.jpg | width=100)
