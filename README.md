@@ -55,5 +55,5 @@
 
 
 
-
-![SUSS](/assets/img/SUSS.jpg | width=100)
+<img src="/assets/img/SUSS.jpg" width="100" height="100">
+![SUSS](/assets/img/SUSS.jpg)
