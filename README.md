@@ -12,4 +12,4 @@
 - detail 1
 - detail 2
 
-![SUSS](/assets/img/suss.jpg)
+![SUSS](/assets/img/SUSS.jpg)
