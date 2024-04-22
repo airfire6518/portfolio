@@ -50,11 +50,6 @@
 - Part of the team in discussion, producing, and setting up testers for customers.
 - Prepare and organize Engineering documents such as permits, machine drawings & P&ID, commissioning reports, and other relevant documents.
 
--test
 
+<img src=/assets/img/SUSS.jpg alt="Example Image" width="300" height="200">
 
-
-<img src=assets/img/SUSS.jpg alt="Example Image" width="300" height="200">
-
-
-[TMA01](https://airfire6518.github.io/portfolio/anl501_proj_1)
