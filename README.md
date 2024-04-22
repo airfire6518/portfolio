@@ -52,7 +52,7 @@
 
 
 
-
+<img src=/assets/img/SUSS.jpg alt="Example Image" width="300" height="200">
 
 
 ![SUSS](/assets/img/SUSS.jpg)
