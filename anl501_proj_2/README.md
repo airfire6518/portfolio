@@ -19,17 +19,17 @@ I filtered the table with the heading “Patents, trademarks, and industrial des
 The data was then exported to a CSV file, patents.csv, for further manipulation in R.
 Data Import and Preparation in R:
 
-<img src=img/Df_patents.jpg alt="Example Image" width="300" height="200">
+<img src=./img/Df_patents.jpg alt="Example Image" width="300" height="200">
 <p><em>Data Set Extraction Using Python (df_patents)</em></p>
 
-<img src=img/CSV_patents.jpg alt="Example Image" width="300" height="200">
+<img src=./img/CSV_patents.jpg alt="Example Image" width="300" height="200">
 <p><em>Data Set Export into CSV (patents.csv)</em></p>
 
 I imported the scraped data into R using the read.csv() command, ensuring continuity in data handling within a single environment.
 To prepare for analysis, I joined the patent data with GDP per capita and population data from the provided ANL501_TMA_JAN24.xlsx file.
 I computed the total patents per 100 thousand population by summing the patents for the years 2021 and 2022 and adjusting for population size.
 
-<img src=img/Question_E_Merged.jpg alt="Example Image" width="300" height="200">
+<img src=./img/Question_E_Merged.jpg alt="Example Image" width="300" height="200">
 <p><em>The Final Merged Dataframe for Plotting</em></p>
 
 
@@ -39,7 +39,7 @@ Utilizing R's ggplot2 package, I created a visualization to investigate the asso
 The visualization was refined with careful adjustments to improve readability and aesthetic appeal, including scaling, theming, and labeling.
 The analysis provided a compelling visual representation of the relationship between a country's wealth and its innovation output.
 
-<img src=img/Question_E.png alt="Example Image" width="300" height="200">
+<img src=./img/Question_E.png alt="Example Image" width="300" height="200">
 <p><em>Relationship Between GDP per Capita and Patents per 100,000 Population</em></p>
 
 **Results and Discussion:**
