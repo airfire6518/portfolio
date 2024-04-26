@@ -56,5 +56,5 @@
 
 
 
-<img src="img/Unicorns.png" alt="Example Image" width="200" height="200">
+<img src="img/Unicorns.png" alt="Example Image" width="60" height="80">
 
