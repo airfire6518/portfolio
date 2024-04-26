@@ -9,10 +9,10 @@ This project entry encapsulates my analytical exploration into the economic and 
 ### Data Import and Wrangling:
 Leveraging the readxl package, data was meticulously imported from the "Population and GDP" worksheet within the ANL501_TMA_JAN24.xlsx file. I applied data filtering techniques to refine the dataset, concentrating on nine specified ASEAN countries. This subset was vital for maintaining a clear focus on the region's economic and demographic patterns. The creation of the df.asean dataframe entailed a transformation into a longitudinal format, ensuring each variable was clearly delineated across countries and years for subsequent analyses.
 
-<img src=./img/Source.png alt="Example Image" width="300" height="200">
+<img src="./img/Source.png" alt="Example Image" width="300" height="200">
 <p><em>ANL501_TMA_JAN24.xlsx (Source Data)</em></p>
 
-<img src=./img/Df_asean.png alt="Example Image" width="300" height="200">
+<img src="img/Df_asean.png" alt="Example Image" width="300" height="200">
 <p><em>Dataframe (df.asean) in R</em></p>
 
 
