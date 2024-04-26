@@ -54,5 +54,5 @@
 
 
 
-<img src=/assets/img/hp.png alt="Example Image" width="300" height="200">
+<img src="assets/img/hp.png" alt="Example Image" width="300" height="200">
 
