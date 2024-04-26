@@ -13,6 +13,7 @@ Leveraging the readxl package, data was meticulously imported from the "Populati
 <p><em>ANL501_TMA_JAN24.xlsx (Source Data)</em></p>
 
 <img src="img/Df_asean.png" alt="Example Image" width="300" height="200">
+<img src="img/Df_asean.png" alt="Example Image" width="300" height="200">
 <p><em>Dataframe (df.asean) in R</em></p>
 
 
