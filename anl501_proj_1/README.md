@@ -1,5 +1,5 @@
 
-## Project 1: Economic Growth and Population Dynamics: A Visual Story of Southeast Asia"
+## Project 1: Economic Growth and Population Dynamics: A Visual Story of Southeast Asia
 
 
 ### Introduction:
@@ -9,39 +9,53 @@ This project entry encapsulates my analytical exploration into the economic and 
 ### Data Import and Wrangling:
 Leveraging the readxl package, data was meticulously imported from the "Population and GDP" worksheet within the ANL501_TMA_JAN24.xlsx file. I applied data filtering techniques to refine the dataset, concentrating on nine specified ASEAN countries. This subset was vital for maintaining a clear focus on the region's economic and demographic patterns. The creation of the df.asean dataframe entailed a transformation into a longitudinal format, ensuring each variable was clearly delineated across countries and years for subsequent analyses.
 
-<img src="img/Source.png" alt="Example Image" width="300" height="200">
-<p><em>ANL501_TMA_JAN24.xlsx (Source Data)</em></p>
+<a href="https://airfire6518.github.io/portfolio/anl501_proj_1/img/Source.png">
+    <img src="img/Source.png" alt="Example Image" width="300" height="200">
+</a>
+<p style="margin-top: 0;"><em>ANL501_TMA_JAN24.xlsx (Source Data)</em></p>
 
-<img src="img/Df_asean.png" alt="Example Image" width="300" height="200">
-<img src="img/Df_asean.png" alt="Example Image" width="300" height="200">
-<p><em>Dataframe (df.asean) in R</em></p>
+
+<a href="https://airfire6518.github.io/portfolio/anl501_proj_1/img/Df_asean.png">
+    <img src="img/Df_asean.png" alt="Example Image" width="300" height="200">
+</a>
+<p style="margin-top: 0;"><em>Dataframe (df.asean) in R</em></p>
 
 
 ### Data Analysis and Visualization:
 The core of the analysis was the longitudinal review, which was meticulously carried out to ascertain the economic progression of each country with an emphasis on Singapore. Through a series of visualizations, I crafted comparative plots that narrated the story of Singapore’s economic journey, juxtaposed against its neighbors. By zeroing in on pivotal decades such as 1960 to 1970, I was able to uncover and depict specific historical economic phases, laying the foundation for a richer, context-driven exploration of the region's growth.
 
-<img src="img/Question_B1.png" alt="Example Image" width="300" height="200">
-<p><em>Singapore vs. the Other Asean Countries (1960 ~ 2020)</em></p>
+<a href="https://airfire6518.github.io/portfolio/anl501_proj_1/img/Question_B1.png">
+    <img src="img/Question_B1.png" alt="Example Image" width="300" height="200">
+</a>
+<p style="margin-top: 0;"><em>Singapore vs. the Other Asean Countries (1960 ~ 2020)</em></p>
 
-<img src="img/Question_B2.png" alt="Example Image" width="300" height="200">
-<p><em>Singapore vs. the Other Asean Countries (1960 ~ 1970)</em></p>
+<a href="https://airfire6518.github.io/portfolio/anl501_proj_1/img/Question_B2.png">
+    <img src="img/Question_B2.png" alt="Example Image" width="300" height="200">
+</a>
+<p style="margin-top: 0;"><em>Singapore vs. the Other Asean Countries (1960 ~ 1970)</em></p>
 
 
 ### Gender Proportion Bar Chart:
 A focused demographic analysis was performed to determine the gender proportions within Malaysia, the Philippines, and Singapore for the years 1960, 1980, 2000, and 2020. Utilizing geom_bar with the stat="identity" parameter, I constructed bar charts that visually encoded the male-to-female ratios, offering an immediate understanding of demographic shifts. The data required pre-processing to accurately reflect these proportions and facilitate a side-by-side stacked representation for each gender category, enhancing the comparative clarity of the visualizations.
 
-<img src="img/Question_C_df.jpg" alt="Example Image" width="300" height="200">
-<p><em>The Dataframe after Pre-processing</em></p>
+<a href="https://airfire6518.github.io/portfolio/anl501_proj_1/img/Question_C_df.jpg">
+    <img src="img/Question_C_df.jpg" alt="Example Image" width="300" height="200">
+</a>
+<p style="margin-top: 0;"><em>The Dataframe after Pre-processing</em></p>
 
-<img src="img/Question_C.png" alt="Example Image" width="300" height="200">
-<p><em>The Break Down of Country Gender Proportion by Year</em></p>
+<a href="https://airfire6518.github.io/portfolio/anl501_proj_1/img/Question_C.png">
+    <img src="img/Question_C.png" alt="Example Image" width="300" height="200">
+</a>
+<p style="margin-top: 0;"><em>The Break Down of Country Gender Proportion by Year</em></p>
 
 
 ### Data Animation with gganimate:
 The animation phase brought to life the static images through the use of the gganimate package. I selected a GDP per capita visualization for this purpose, aiming to dynamically showcase Singapore's growth against the backdrop of its ASEAN peers. The animated plot, rendered as a GIF file, was then smoothly integrated into the accompanying Word document. This visual narrative captured the temporal dimension of economic development, illustrating not only the endpoints but the entire journey.
 
-<img src="img/Question_D.gif" alt="Example Image" width="300" height="200">
-<p><em>Singapore vs. the Other Asean Countries - Animation</em></p>
+<a href="https://airfire6518.github.io/portfolio/anl501_proj_1/img/Question_D.gif">
+    <img src="img/Question_D.gif" alt="Example Image" width="300" height="200">
+</a>
+<p style="margin-top: 0;"><em>Singapore vs. the Other Asean Countries - Animation</em></p>
 
 
 ### Discussions and Observations:
