@@ -58,6 +58,9 @@
 
 [Project 03](https://airfire6518.github.io/portfolio/anl501_proj_3)
 
+[Project 04](https://airfire6518.github.io/portfolio/anl503_proj_1)
+
+[Project 05](https://airfire6518.github.io/portfolio/anl503_proj_2)
 
 
 <img src="img/Unicorns.png" alt="Example Image" width="60" height="80">
