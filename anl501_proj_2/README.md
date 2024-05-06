@@ -47,7 +47,7 @@ The visualization was refined with careful adjustments to improve readability an
 The analysis provided a compelling visual representation of the relationship between a country's wealth and its innovation output.
 
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_2/img/Question_1e.png">
-    <img src="img/Question_e.png" alt="Example Image" width="700" height="500">
+    <img src="img/Question_1e.png" alt="Example Image" width="700" height="500">
 </a>
 <p style="margin-top: 0;"><em>Relationship Between GDP per Capita and Patents per 100,000 Population</em></p>
 
