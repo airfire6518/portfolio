@@ -45,7 +45,7 @@ The details steps as below:
 <a href="https://airfire6518.github.io/portfolio/anl503_proj_2/img/Question_1b_vttclean.jpg">
     <img src="img/Question_1b_vttclean.jpg" alt="Example Image" style="width: 600px; height: 500px; display: block; margin-bottom: 0;">
 </a>
-<p style="margin-top: 0; margin-bottom: 0;"><em>The New SQL Table vttclean</em></p>
+<p style="margin-top: 0;"><em>The New SQL Table vttclean</em></p>
 
 
 **Visualization of Class Participation:**
