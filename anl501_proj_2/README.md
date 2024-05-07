@@ -3,7 +3,7 @@
 
 ### Introduction:
 
-This project demonstrates the powerful synergy between R and Python, two of the most prominent programming languages in data science. By harnessing Python's data scraping capabilities within RStudio, I extracted and analyzed World Intellectual Property Indicators from [Wikipedia](https://en.wikipedia.org/wiki/World_Intellectual_Property_Indicators) to explore whether there is cross-country evidence that GDP per capita is associated with total patents per 100 thousand population.
+This project demonstrates the powerful synergy between R and Python, two of the most prominent programming languages in data science. By harnessing Python's data scraping capabilities within RStudio, I extracted and analyzed World Intellectual Property Indicators from [Wikipedia - WIP Indicators](https://en.wikipedia.org/wiki/World_Intellectual_Property_Indicators) to explore whether there is cross-country evidence that GDP per capita is associated with total patents per 100 thousand population.
 
 
 ### Methodology:
@@ -21,12 +21,12 @@ The data was then exported to a CSV file, `patents.csv`, for further manipulatio
 Data Import and Preparation in R:
 
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_2/img/df_patents.jpg">
-    <img src="img/df_patents.jpg" alt="Example Image" width="700" height="400">
+    <img src="img/df_patents.jpg" alt="Example Image" width="700" height="350">
 </a>
 <p style="margin-top: 0;"><em>Data Set Extraction Using Python (`df_patents`)</em></p>
 
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_2/img/csv_patents.jpg">
-    <img src="img/csv_patents.jpg" alt="Example Image" width="700" height="500">
+    <img src="img/csv_patents.jpg" alt="Example Image" width="700" height="450">
 </a>
 <p style="margin-top: 0;"><em>Data Set Export into CSV (patents.csv)</em></p>
 
@@ -47,7 +47,7 @@ The visualization was refined with careful adjustments to improve readability an
 The analysis provided a compelling visual representation of the relationship between a country's wealth and its innovation output.
 
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_2/img/Question_1e.png">
-    <img src="img/Question_1e.png" alt="Example Image" width="700" height="500">
+    <img src="img/Question_1e.png" alt="Example Image" width="700" height="400">
 </a>
 <p style="margin-top: 0;"><em>Relationship Between GDP per Capita and Patents per 100,000 Population</em></p>
 

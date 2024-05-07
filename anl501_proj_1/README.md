@@ -10,7 +10,7 @@ The project delves into an in-depth analysis of demographic and economic indicat
 
 **1. Data Import and Wrangling:**
 
-To initiate this in-depth analysis project, I began with the importation and cleansing of the dataset named ANL501_TMA_JAN24.xlsx, specifically the "Population and GDP" worksheet. Utilizing R's `readxl` package, I extracted the necessary data, focusing on ASEAN countries, and performed rigorous data wrangling. This process involved filtering the dataset for relevant countries, ensuring that the data were sorted by both country and year, and restructuring the data into a longitudinal format. This meticulous organization set the stage for accurate and insightful analysis.
+To initiate this in-depth analysis project, I began with the importation and cleansing of the dataset named 'ANL501_TMA_JAN24.xlsx', specifically the "Population and GDP" worksheet. Utilizing R's `readxl` package, I extracted the necessary data, focusing on ASEAN countries, and performed rigorous data wrangling. This process involved filtering the dataset for relevant countries, ensuring that the data were sorted by both country and year, and restructuring the data into a longitudinal format. This meticulous organization set the stage for accurate and insightful analysis.
 
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_1/img/Source.png">
     <img src="img/Source.png" alt="Example Image" width="600" height="400">
@@ -21,7 +21,7 @@ To initiate this in-depth analysis project, I began with the importation and cle
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_1/img/Df_asean.png">
     <img src="img/Df_asean.png" alt="Example Image" width="600" height="300">
 </a>
-<p style="margin-top: 0;"><em>Dataframe (`df.asean`) in R</em></p>
+<p style="margin-top: 0;"><em>Dataframe (df.asean) in R</em></p>
 
 
 **2. Data Analysis and Visualization:**
@@ -44,12 +44,12 @@ The essence of the analysis is a longitudinal scrutiny meticulously conducted to
 A focused demographic analysis was performed to determine the gender proportions within Malaysia, the Philippines, and Singapore for the years 1960, 1980, 2000, and 2020. Utilizing `geom_bar` with the `stat="identity"` parameter, I constructed bar charts that visually encoded the male-to-female ratios, offering an immediate understanding of demographic shifts. The data required pre-processing to accurately reflect these proportions and facilitate a side-by-side stacked representation for each gender category, enhancing the comparative clarity of the visualizations.
 
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_1/img/Question_C_df.jpg">
-    <img src="img/Question_C_df.jpg" alt="Example Image" width="400" height="450">
+    <img src="img/Question_C_df.jpg" alt="Example Image" width="400" height="600">
 </a>
 <p style="margin-top: 0;"><em>The Dataframe after Pre-processing</em></p>
 
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_1/img/Question_C.png">
-    <img src="img/Question_C.png" alt="Example Image" width="600" height="400">
+    <img src="img/Question_C.png" alt="Example Image" width="600" height="350">
 </a>
 <p style="margin-top: 0;"><em>The Break Down of Country Gender Proportion by Year</em></p>
 
