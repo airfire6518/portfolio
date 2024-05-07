@@ -10,12 +10,12 @@ This project demonstrates the powerful synergy between R and Python, two of the 
 
 **1. Python Integration:**
 
-To bridge R with Python, I utilized the reticulate package, which provides a comprehensive set of tools for this purpose.
+To bridge R with Python, I utilized the `reticulate` package, which provides a comprehensive set of tools for this purpose.
 After ensuring Python was correctly installed on my system, I activated the Python interface within RStudio using `reticulate::repl_python()`.
 
 **2. Data Scraping:**
 
-Python’s pandas library's `read_html()` function was employed to scrape tabular data directly from the Wikipedia page.
+Python’s `pandas` library's `read_html()` function was employed to scrape tabular data directly from the Wikipedia page.
 I filtered the table with the heading “Patents, trademarks, and industrial design filing activity by country of origin” and saved the extracted data as `df_patents`.
 The data was then exported to a CSV file, `patents.csv`, for further manipulation in R.
 Data Import and Preparation in R:
@@ -23,14 +23,14 @@ Data Import and Preparation in R:
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_2/img/df_patents.jpg">
     <img src="img/df_patents.jpg" alt="Example Image" width="700" height="400">
 </a>
-<p style="margin-top: 0;"><em>Data Set Extraction Using Python (df_patents)</em></p>
+<p style="margin-top: 0;"><em>Data Set Extraction Using Python (`df_patents`)</em></p>
 
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_2/img/csv_patents.jpg">
     <img src="img/csv_patents.jpg" alt="Example Image" width="700" height="500">
 </a>
 <p style="margin-top: 0;"><em>Data Set Export into CSV (patents.csv)</em></p>
 
-Imported the scraped data into R using the read.csv() command, ensuring continuity in data handling within a single environment.
+Imported the scraped data into R using the `read.csv()` command, ensuring continuity in data handling within a single environment.
 To prepare for analysis, I joined the patent data with GDP per capita and population data from the provided 'ANL501_TMA_JAN24.xlsx' file.
 After that, computed the total patents per 100 thousand population by summing the patents for the years 2021 and 2022 and adjusting for population size.
 

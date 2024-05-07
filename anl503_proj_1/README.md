@@ -16,7 +16,7 @@ I analyzed each column's data type, considering factors such as the range of val
 
 **MySQL Optimization:**
 
-Utilizing the ALTER TABLE command, I optimized the data types where necessary to ensure that storage space was used efficiently without information loss.
+Utilizing the `ALTER TABLE` command, I optimized the data types where necessary to ensure that storage space was used efficiently without information loss.
 I provided a justification for retaining the original data types where no changes were deemed necessary.
 
 The SQL query as below:

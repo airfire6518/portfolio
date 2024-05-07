@@ -4,13 +4,13 @@
 
 ### Introduction:
 
-The project delves into an in-depth analysis of demographic and economic indicators among Southeast Asian countries, using data from the "Population and GDP" worksheet of the ANL501_TMA_JAN24.xlsx dataset. Understanding the complexity of cross-sectional, time-series, and panel data, I applied rigorous data visualization techniques to extract and highlight the region's growth and development patterns.
+The project delves into an in-depth analysis of demographic and economic indicators among Southeast Asian countries, using data from the "Population and GDP" worksheet of the 'ANL501_TMA_JAN24.xlsx' dataset. Understanding the complexity of cross-sectional, time-series, and panel data, I applied rigorous data visualization techniques to extract and highlight the region's growth and development patterns.
 
 ### Methodology:
 
 **1. Data Import and Wrangling:**
 
-To initiate this in-depth analysis project, I began with the importation and cleansing of the dataset named ANL501_TMA_JAN24.xlsx, specifically the "Population and GDP" worksheet. Utilizing R's readxl package, I extracted the necessary data, focusing on ASEAN countries, and performed rigorous data wrangling. This process involved filtering the dataset for relevant countries, ensuring that the data were sorted by both country and year, and restructuring the data into a longitudinal format. This meticulous organization set the stage for accurate and insightful analysis.
+To initiate this in-depth analysis project, I began with the importation and cleansing of the dataset named ANL501_TMA_JAN24.xlsx, specifically the "Population and GDP" worksheet. Utilizing R's `readxl` package, I extracted the necessary data, focusing on ASEAN countries, and performed rigorous data wrangling. This process involved filtering the dataset for relevant countries, ensuring that the data were sorted by both country and year, and restructuring the data into a longitudinal format. This meticulous organization set the stage for accurate and insightful analysis.
 
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_1/img/Source.png">
     <img src="img/Source.png" alt="Example Image" width="600" height="400">
@@ -21,12 +21,12 @@ To initiate this in-depth analysis project, I began with the importation and cle
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_1/img/Df_asean.png">
     <img src="img/Df_asean.png" alt="Example Image" width="600" height="300">
 </a>
-<p style="margin-top: 0;"><em>Dataframe (df.asean) in R</em></p>
+<p style="margin-top: 0;"><em>Dataframe (`df.asean`) in R</em></p>
 
 
 **2. Data Analysis and Visualization:**
 
-The essence of the analysis is a longitudinal scrutiny meticulously conducted to reveal the economic development of each country, with a focus on Singapore. Utilizing ggplot2 in R, I crafted line charts through a series of visual comparisons that not only narrate Singapore's economic journey during key periods such as from 1960 to 1970 but also juxtapose it alongside neighboring countries, emphasizing the stark contrast in GDP per capita development and economic trajectories. These graphs precisely pinpoint key growth stages and economic turning points, providing a rich, context-oriented exploration of growth in the region.
+The essence of the analysis is a longitudinal scrutiny meticulously conducted to reveal the economic development of each country, with a focus on Singapore. Utilizing `ggplot2` in R, I crafted line charts through a series of visual comparisons that not only narrate Singapore's economic journey during key periods such as from 1960 to 1970 but also juxtapose it alongside neighboring countries, emphasizing the stark contrast in GDP per capita development and economic trajectories. These graphs precisely pinpoint key growth stages and economic turning points, providing a rich, context-oriented exploration of growth in the region.
 
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_1/img/Question_B1.png">
     <img src="img/Question_B1.png" alt="Example Image" width="600" height="400">
@@ -41,7 +41,7 @@ The essence of the analysis is a longitudinal scrutiny meticulously conducted to
 
 **3. Gender Proportion Bar Chart:**
 
-A focused demographic analysis was performed to determine the gender proportions within Malaysia, the Philippines, and Singapore for the years 1960, 1980, 2000, and 2020. Utilizing geom_bar with the stat="identity" parameter, I constructed bar charts that visually encoded the male-to-female ratios, offering an immediate understanding of demographic shifts. The data required pre-processing to accurately reflect these proportions and facilitate a side-by-side stacked representation for each gender category, enhancing the comparative clarity of the visualizations.
+A focused demographic analysis was performed to determine the gender proportions within Malaysia, the Philippines, and Singapore for the years 1960, 1980, 2000, and 2020. Utilizing `geom_bar` with the `stat="identity"` parameter, I constructed bar charts that visually encoded the male-to-female ratios, offering an immediate understanding of demographic shifts. The data required pre-processing to accurately reflect these proportions and facilitate a side-by-side stacked representation for each gender category, enhancing the comparative clarity of the visualizations.
 
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_1/img/Question_C_df.jpg">
     <img src="img/Question_C_df.jpg" alt="Example Image" width="400" height="450">
@@ -78,7 +78,7 @@ My observations from the static visualizations revealed Singapore's remarkable e
 
 ### Skills and Tools:
 
-Throughout this project, I honed my proficiency in R and fortified my expertise in data manipulation (using dplyr), data tidying (with tidyr), data visualization (through ggplot2), and animated storytelling (via gganimate). These tools were instrumental in translating raw numbers into compelling visual stories.
+Throughout this project, I honed my proficiency in R and fortified my expertise in data manipulation (using `dplyr`), data tidying (with `tidyr`), data visualization (through `ggplot2`), and animated storytelling (via `gganimate`). These tools were instrumental in translating raw numbers into compelling visual stories.
 
 
 ### Challenges and Resolutions:
