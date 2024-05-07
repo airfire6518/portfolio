@@ -19,7 +19,7 @@ Using the extracted data, I created a MySQL table named ‘vtt’ with columns c
 The program ensured data integrity and correct formatting for direct database importation.
 
 <a href="https://airfire6518.github.io/portfolio/anl503_proj_2/img/Question_1a_vtttosql.jpg">
-    <img src="img/Question_1a_vtttosql.jpg" alt="Example Image" width="500" height="200">
+    <img src="img/Question_1a_vtttosql.jpg" alt="Example Image" width="500" height="250">
 </a>
 <p style="margin-top: 0;"><em>Establishing Connection to SQL and Creating Dataframe</em></p>
 
@@ -37,9 +37,9 @@ The details steps as below:
 - Step 3: Insert data into `vttclean` with the `milliseconds` column calculated (`TimeTo` - `TimeFrom` in milliseconds)
 
 <a href="https://airfire6518.github.io/portfolio/anl503_proj_2/img/Question_1b_vttclean.jpg">
-    <img src="img/Question_1b_vttclean.jpg" alt="Example Image" width="700" height="500">
+    <img src="img/Question_1b_vttclean.jpg" alt="Example Image" width="600" height="500">
 </a>
-<p style="margin-top: 0;"><em>The New SQL Table ‘vttclean’</em></p>
+<p style="margin-top: 0;"><em>The New SQL Table vttclean</em></p>
 
 **Visualization of Class Participation:**
 
@@ -47,7 +47,7 @@ Designed an R program to visualize the total airtime each student contributed du
 The bar chart created succinctly captured the level of participation, allowing for quick comparison and assessment of engagement.
 
 <a href="https://airfire6518.github.io/portfolio/anl503_proj_2/img/Question_1c_vttclean.png">
-    <img src="img/Question_1c_vttclean.png" alt="Example Image" width="700" height="500">
+    <img src="img/Question_1c_vttclean.png" alt="Example Image" width="600" height="500">
 </a>
 <p style="margin-top: 0;"><em>Total Airtime per Person</em></p>
 

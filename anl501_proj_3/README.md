@@ -329,7 +329,7 @@ ggmap(map) +
 ```
 
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_3/img/5map.png">
-    <img src="img/5map.png" alt="Example Image" width="600" height="400">
+    <img src="img/5map.png" alt="Example Image" width="500" height="350">
 </a>
 <p style="margin-top: 0;"><em>Mean Price Per Square Foot by Town</em></p>
 

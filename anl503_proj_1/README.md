@@ -34,7 +34,7 @@ ALTER TABLE survey
 ```
 
 <a href="https://airfire6518.github.io/portfolio/anl503_proj_1/img/Question_1a_datatype.jpg">
-    <img src="img/Question_1a_datatype.jpg" alt="Example Image" width="800" height="100">
+    <img src="img/Question_1a_datatype.jpg" alt="Example Image" width="800" height="200">
 </a>
 <p style="margin-top: 0;"><em>The revised dataset schema</em></p>
 
