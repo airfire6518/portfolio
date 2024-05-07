@@ -83,7 +83,7 @@ p1 + geom_point(mapping = aes(color = town)) +
 ```
 
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_3/img/1scatter.png">
-    <img src="img/1scatter.png" alt="Example Image" width="700" height="500">
+    <img src="img/1scatter.png" alt="Example Image" width="700" height="400">
 </a>
 <p style="margin-top: 0;"><em>Relationship between Resale Price and Floor Area</em></p>
 
@@ -133,7 +133,7 @@ p2 + geom_bar(position = "dodge",
 ```
 
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_3/img/2bar.png">
-    <img src="img/2bar.png" alt="Example Image" width="700" height="500">
+    <img src="img/2bar.png" alt="Example Image" width="700" height="350">
 </a>
 <p style="margin-top: 0;"><em>The Break Down (Proportion) of Flat Type Across Target Towns</em></p>
 
@@ -197,7 +197,7 @@ p3 + scale_x_continuous(breaks = seq(1990, 2025, 5)) +
 ```
 
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_3/img/3line.png">
-    <img src="img/3line.png" alt="Example Image" width="700" height="500">
+    <img src="img/3line.png" alt="Example Image" width="700" height="350">
 </a>
 <p style="margin-top: 0;"><em>Resale Market Average Price of Flats Changed Over Time (1990 - 2004)</em></p>
 
@@ -261,7 +261,7 @@ p4 + geom_boxplot() +
 ```
 
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_3/img/4boxplot.png">
-    <img src="img/4boxplot.png" alt="Example Image" width="700" height="500">
+    <img src="img/4boxplot.png" alt="Example Image" width="700" height="400">
 </a>
 <p style="margin-top: 0;"><em>Resale Price (Per Square Foot) of Flatsw VS. Remaining Lease</em></p>
 

@@ -5,9 +5,11 @@
 
 
 ## Education
-| M.S. Data Analysis  | Singapore University of Social Sciences | Pursuing  |
-| B.A. Electronics    | Singapore University of Social Sciences | Dec 2022  |
-| Dip. Electronics    | Republic Polytechnic                    | Dec 2009  |
+> M.S. Data Analysis  | Singapore University of Social Sciences | Pursuing  |
+> 
+> B.A. Electronics    | Singapore University of Social Sciences | Dec 2022  |
+> 
+> Dip. Electronics    | Republic Polytechnic                    | Dec 2009  |
 
 
 ## Data Analysis and Visualisation Project
