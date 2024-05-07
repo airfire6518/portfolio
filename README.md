@@ -11,10 +11,13 @@
 **R:**\
 <font size="1">[Economic Growth & Population Dynamics: A Visual Story of Southeast Asia](https://airfire6518.github.io/portfolio/anl501_proj_1)</font><br>
 <font size="1">[Integrating Python with R for Data Scraping and Analysis: A Study on GDP and Innovation](https://airfire6518.github.io/portfolio/anl501_proj_2)</font><br>
+
 **Python / R:**\
 <font size="1">[The Singapore HDB Resale Market: 1990-2024](https://airfire6518.github.io/portfolio/anl501_proj_3)</font><br>
+
 **SQL / R:**\
 <font size="1">[Visual Analysis of University Graduate Survey Data](https://airfire6518.github.io/portfolio/anl503_proj_1)</font><br>
+
 **Python / SQL / R:**\
 <font size="1">[Insights from Zoom Transcripts: Analyzing Student Engagement in the Digital Classroom](https://airfire6518.github.io/portfolio/anl503_proj_2)</font><br>
 
