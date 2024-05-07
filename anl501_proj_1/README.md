@@ -12,16 +12,19 @@ The project delves into an in-depth analysis of demographic and economic indicat
 
 To initiate this in-depth analysis project, I began with the importation and cleansing of the dataset named 'ANL501_TMA_JAN24.xlsx', specifically the "Population and GDP" worksheet. Utilizing R's `readxl` package, I extracted the necessary data, focusing on ASEAN countries, and performed rigorous data wrangling. This process involved filtering the dataset for relevant countries, ensuring that the data were sorted by both country and year, and restructuring the data into a longitudinal format. This meticulous organization set the stage for accurate and insightful analysis.
 
-<a href="https://airfire6518.github.io/portfolio/anl501_proj_1/img/Source.png">
-    <img src="img/Source.png" alt="Example Image" width="600" height="400" style="margin-bottom: 0;">
-</a>
-<p style="margin-top: 0;"><em>ANL501_TMA_JAN24.xlsx (Source Data)</em></p>
 
+<p style="color: red;">ANL501_TMA_JAN24.xlsx (Source Data):</p>
+
+<a href="https://airfire6518.github.io/portfolio/anl501_proj_1/img/Source.png">
+    <img src="img/Source.png" alt="Example Image" width="600" height="400">
+</a>
+
+
+Dataframe (df.asean) in R:
 
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_1/img/Df_asean.png">
-    <img src="img/Df_asean.png" alt="Example Image" width="600" height="300" style="margin-bottom: 0;">
+    <img src="img/Df_asean.png" alt="Example Image" width="600" height="300">
 </a>
-<p style="margin-top: 0;"><em>Dataframe (df.asean) in R</em></p>
 
 
 **2. Data Analysis and Visualization:**
