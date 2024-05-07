@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, R, MATLAB
 
 ## Education
-- M.S. Data Analysis|Singapore University of Social Sciences(_Pursuing_)
-- B.A. Electronics|Singapore University of Social Sciences(_Dec 2022_)
-- Dip. Electronics|Republic Polytechnic(_Dec 2009_)
+- M.S. Data Analysis|SUSS (_Pursuing_)
+- B.A. Electronics|SUSS (_Dec 2022_)
+- Dip. Electronics|Republic Polytechnic (_Dec 2009_)
 
 ## Data Analysis and Visualisation Project
 **R:**<br>
