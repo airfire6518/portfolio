@@ -3,22 +3,22 @@
 #### Technical Skills: Python, SQL, R, MATLAB
 
 ## Education
-- M.S., Data Analysis | Singapore University of Social Sciences (_Pursuing_)
-- B.A., Electronics | Singapore University of Social Sciences (_Dec 2022_)
-- Dip., Electronics | Singapore University of Social Sciences (_Dec 2009_)
+- M.S. Data Analysis|Singapore University of Social Sciences (_Pursuing_)
+- B.A. Electronics|Singapore University of Social Sciences (_Dec 2022_)
+- Dip. Electronics|Singapore University of Social Sciences (_Dec 2009_)
 
 ## Data Analysis and Visualisation Project
 **R:**<br>
 <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_1">Economic Growth & Population Dynamics: A Visual Story of Southeast Asia</a></span><br>
 <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_2">Integrating Python with R for Data Scraping and Analysis: A Study on GDP and Innovation</a></span><br>
 
-**Python / R:**<br>
+**Python/R:**<br>
 <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_3">The Singapore HDB Resale Market: 1990-2024</a></span><br>
 
-**SQL / R:**<br>
+**SQL/R:**<br>
 <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl503_proj_1">Visual Analysis of University Graduate Survey Data</a></span><br>
 
-**Python / SQL / R:**<br>
+**Python/SQL/R:**<br>
 <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl503_proj_2">Insights from Zoom Transcripts: Analyzing Student Engagement in the Digital Classroom</a></span><br>
 
 ## Work Experience

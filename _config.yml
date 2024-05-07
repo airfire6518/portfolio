@@ -3,5 +3,6 @@ description: Career Deveplopment
 logo: img/dji.jpg
 description: <a href="https://airfire6518.github.io/portfolio/">Return to My Main Page</a>
 show_github_link: false
+github_link: ""
 # show_downloads: true
 theme: jekyll-theme-minimal
