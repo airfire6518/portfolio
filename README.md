@@ -13,18 +13,18 @@
 
 
 ## Data Analysis and Visualisation Project
-**R:**<br>
-<span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_1">Economic Growth & Population Dynamics: A Visual Story of Southeast Asia</a></span><br>
-<span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_2">Integrating Python with R for Data Scraping and Analysis: A Study on GDP and Innovation</a></span><br>
-
-**Python/R:**<br>
-<span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_3">The Singapore HDB Resale Market: 1990-2024</a></span><br>
-
-**SQL/R:**<br>
-<span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl503_proj_1">Visual Analysis of University Graduate Survey Data</a></span><br>
-
-**Python/SQL/R:**<br>
-<span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl503_proj_2">Insights from Zoom Transcripts: Analyzing Student Engagement in the Digital Classroom</a></span><br>
+> **R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_1">Economic Growth & Population Dynamics: A Visual Story of Southeast Asia</a></span><br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_2">Integrating Python with R for Data Scraping and Analysis: A Study on GDP and Innovation</a></span><br>
+>
+> **Python/R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_3">The Singapore HDB Resale Market: 1990-2024</a></span><br>
+>
+> **SQL/R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl503_proj_1">Visual Analysis of University Graduate Survey Data</a></span><br>
+>
+> **Python/SQL/R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl503_proj_2">Insights from Zoom Transcripts: Analyzing Student Engagement in the Digital Classroom</a></span><br>
 
 ## Work Experience
 **Senior Automation Engineer | Infineon Technologies A/P Pte. Ltd. (_Apri 2022 - Present_)**
