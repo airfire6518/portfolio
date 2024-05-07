@@ -1,6 +1,13 @@
 title: Ray Wang Lei
 description: <em>Career Deveplopment</em>
 logo: img/dji.jpg
-description: <a href="https://airfire6518.github.io/">Return to My Profile Page</a>
+description: <a href="https://airfire6518.github.io/portfolio/">Return to My Main Page</a>
+description: <a href="https://airfire6518.github.io/portfolio/anl501_proj_1">Project 01:Economic Growth and Population Dynamics:A Visual Story of Southeast Asia</a>
+description: <a href="https://airfire6518.github.io/portfolio/anl501_proj_2">Project 02:Integrating Python with R for Data Scraping and Analysis:A Study on GDP and Innovation</a>
+description: <a href="https://airfire6518.github.io/portfolio/anl501_proj_3">Project 03:The Singapore HDB Resale Market:1990-2024</a>
+description: <a href="https://airfire6518.github.io/portfolio/anl503_proj_1">Project 04:Visual Analysis of University Graduate Survey Data</a>
+description: <a href="https://airfire6518.github.io/portfolio/anl503_proj_2">Project 05:Insights from Zoom Transcripts:Analyzing Student Engagement in the Digital Classroom</a>
+
+show_github_link: false
 # show_downloads: true
 theme: jekyll-theme-minimal

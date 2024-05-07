@@ -7,6 +7,17 @@
 - B.A., Electronics|Singapore University of Social Sciences (_Dec 2022_)
 - Dip., Electronics|Singapore University of Social Sciences (_Dec 2009_)
 
+## Data Analysis and Visualisation Project
+**R:**\
+[Project 01: Economic Growth and Population Dynamics: A Visual Story of Southeast Asia](https://airfire6518.github.io/portfolio/anl501_proj_1)\
+[Project 02: Integrating Python with R for Data Scraping and Analysis: A Study on GDP and Innovation](https://airfire6518.github.io/portfolio/anl501_proj_2)\
+**Python / R:**\
+[Project 03: The Singapore HDB Resale Market: 1990-2024](https://airfire6518.github.io/portfolio/anl501_proj_3)\
+**SQL / R:**\
+[Project 04Visual Analysis of University Graduate Survey Data](https://airfire6518.github.io/portfolio/anl503_proj_1)\
+**Python / SQL / R:**\
+[Project 05: Insights from Zoom Transcripts: Analyzing Student Engagement in the Digital Classroom](https://airfire6518.github.io/portfolio/anl503_proj_2)\
+
 ## Work Experience
 **Senior Automation Engineer | Infineon Technologies A/P Pte. Ltd. (_Apri 2022 - Present_)**
 - Managed and executed end-to-end automation and digitalization projects, from concept to implementation, following a structured approach.
@@ -49,19 +60,3 @@
 - Equipment (Gas/Chemical/Tool) Life Safety System (LSS) design and installation.
 - Part of the team in discussion, producing, and setting up testers for customers.
 - Prepare and organize Engineering documents such as permits, machine drawings & P&ID, commissioning reports, and other relevant documents.
-
--test
-
-[Project 01](https://airfire6518.github.io/portfolio/anl501_proj_1)
-
-[Project 02](https://airfire6518.github.io/portfolio/anl501_proj_2)
-
-[Project 03](https://airfire6518.github.io/portfolio/anl501_proj_3)
-
-[Project 04](https://airfire6518.github.io/portfolio/anl503_proj_1)
-
-[Project 05](https://airfire6518.github.io/portfolio/anl503_proj_2)
-
-
-<img src="img/Unicorns.png" alt="Example Image" width="60" height="80">
-

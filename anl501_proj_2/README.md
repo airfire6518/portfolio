@@ -1,4 +1,4 @@
-## Project 2: Integrating Python with R for Data Scraping and Analysis: A Study on GDP and Innovation
+## Project 2: "Integrating Python with R for Data Scraping and Analysis: A Study on GDP and Innovation"
 
 
 ### Introduction:
