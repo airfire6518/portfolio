@@ -20,7 +20,7 @@ To initiate this in-depth analysis project, I began with the importation and cle
 </a>
 
 
-Dataframe (df.asean) in R:
+<p style="color: red;">Dataframe (df.asean) in R:</p>
 
 <a href="https://airfire6518.github.io/portfolio/anl501_proj_1/img/Df_asean.png">
     <img src="img/Df_asean.png" alt="Example Image" width="600" height="300">

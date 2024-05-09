@@ -36,11 +36,11 @@
 - Demonstrated ownership of solutions and systems, ensuring their continuing success and effectiveness.
 - Documentation management and version control system.
   
-**Key Project and Achievements:**
-- Sample Management System: Conceptualized and implemented solution using MySQL/Python/PHP/Bitbucket tools, which resulted in better traceability and efficiency for ES Lot, saving 2 hours per day.
-- Data Visualization: Created product reports using Tableau to facilitate better decision-making.
-- NPI Digitalization: Implemented an automation process and improved workflow using the Sharepoint system.
-- Data Housekeeping: Developed a Visual Basic .NET tool to automate data housekeeping tasks, freeing up 1~2 hours per day.
+> **Key Project and Achievements:**
+> - Sample Management System: Conceptualized and implemented solution using MySQL/Python/PHP/Bitbucket tools, which resulted in better traceability and efficiency for ES Lot, saving 2 hours per day.
+> - Data Visualization: Created product reports using Tableau to facilitate better decision-making.
+> - NPI Digitalization: Implemented an automation process and improved workflow using the Sharepoint system.
+> - Data Housekeeping: Developed a Visual Basic .NET tool to automate data housekeeping tasks, freeing up 1~2 hours per day.
 
 **Process Engineer | KX Technologies Singapore Pte. Ltd. (_Feb 2019 - Mar 2022_)**
 - Simulating and testing the new processes and equipment to ensure the functions are desired. Manage installation and qualification of automation equipment.
@@ -50,14 +50,14 @@
 - Investigate and resolve problems. Lead to corrective, and manage Engineer changes.
 - Organize Engineering documents such as machine drawings, work instructions, production line qualification reports, and other relevant documents.
 
-**Key Project and Achievements:**
-- Commercial Excellence Achievement Award (Dec 2020)
-- Operational Excellence & Innovation Achievement Award (Dec 2021)
-- Lead and coordinate for set-up EMA(Electrolux) air-filter production line including box assembly machine & flow wrapping machine. Machine testing & validation.
-- Intelligent RFID (IoT) implemented filter in Strauss Water filter products.
-- HM Global (Korea) water filter (FACT Media) products.
-- Investigate and improve the EMA(Electrolux) Gremlin air-filter line yield from 50% monthly to >95% monthly in three months.
-- Involves HM Global, Kunshan EcoWater, Strauss Water, Thermos, etc.
+> **Key Project and Achievements:**
+> - Commercial Excellence Achievement Award (Dec 2020)
+> - Operational Excellence & Innovation Achievement Award (Dec 2021)
+> - Lead and coordinate for set-up EMA(Electrolux) air-filter production line including box assembly machine & flow wrapping machine. Machine testing & validation.
+> - Intelligent RFID (IoT) implemented filter in Strauss Water filter products.
+> - HM Global (Korea) water filter (FACT Media) products.
+> - Investigate and improve the EMA(Electrolux) Gremlin air-filter line yield from 50% monthly to >95% monthly in three months.
+> - Involves HM Global, Kunshan EcoWater, Strauss Water, Thermos, etc.
 
 **Automation Engineer | Meridionale Impianti (Singapore) Pte. Ltd. (_Apri 2013 - Sep 2018_)**
 - PLC (Omron CJ Series/Siemens) software programming modification.
