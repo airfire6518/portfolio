@@ -1,15 +1,13 @@
 # Data Analyst
 
 
-#### Technical Skills: Python, SQL, R, MATLAB
+#### Technical Skills: Python, SQL, R, MATLAB, Tableau
 
 
 ## Education
-> M.S. Data Analysis  | Singapore University of Social Sciences | Pursuing  |
-> 
-> B.A. Electronics    | Singapore University of Social Sciences | Dec 2022  |
-> 
-> Dip. Electronics    | Republic Polytechnic                    | Dec 2009  |
+- M.S.Data Analysis  | **Singapore University of Social Sciences** | Pursuing  |
+- B.A.Electronics    | **Singapore University of Social Sciences** | Dec 2022  |
+- Dip.Electronics    | **Republic Polytechnic**                    | Dec 2009  |
 
 
 ## Data Analysis and Visualisation Project
@@ -27,14 +25,15 @@
 > <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl503_proj_2">Insights from Zoom Transcripts: Analyzing Student Engagement in the Digital Classroom</a></span><br>
 
 ## Work Experience
-**Senior Automation Engineer | Infineon Technologies A/P Pte. Ltd. (_Apri 2022 - Present_)**
-- Managed and executed end-to-end automation and digitalization projects, from concept to implementation, following a structured approach.
-- Provided crucial support to departmental functions, enabling the achievement of productivity, quality, and personnel efficiency objectives.
-- Spearheaded automation and AI-related initiatives, translating them into tangible business outcomes.
-- Collaborated effectively with diverse technical experts to align projects and business objectives.
-- Actively engaged in operations-related matters, initiating engineering solutions informed by statistical theories and data-driven qualitative and quantitative methods.
+**Senior Automation Engineer [Specializing in Data & Digitalization Project] | Infineon Technologies A/P Pte. Ltd. (_Apri 2022 - Present_)**
+- Orchestrated comprehensive automation and digitalization projects, from initial design to deployment. Leveraged data analytics to guide each phase and ensure adherence to a data-centric structured methodology. (Methodologies involved: SQL, Python, PHP, etc.)
+- Enhanced departmental performance by providing key data insights, and contributing to the achievement of productivity targets, quality improvement, and personnel efficiency goals.
+- Spearheaded automation and AI-related initiatives, translating complex datasets into tangible business outcomes.
+- Collaborated effectively with diverse technical experts to align projects and business objectives. (Methodologies involved: Tableau, Excel, PPT, etc.)
+- Engaged in operations-related matters, proposing and implementing engineering solutions informed by statistical theories and data-driven qualitative and quantitative methods. (Methodologies involved: SQL, Python, PHP, etc.)
 - Demonstrated ownership of solutions and systems, ensuring their continuing success and effectiveness.
-- Documentation management and version control system.
+ Executed meticulous documentation practices (Sharepoint), underpinned by an effective version control system, to maintain data integrity and facilitate transparent data management. (Methodologies involved: Sharepoint, Bitbucket, Github, etc.)
+
   
 > **Key Project and Achievements:**
 > - Sample Management System: Conceptualized and implemented solution using MySQL/Python/PHP/Bitbucket tools, which resulted in better traceability and efficiency for ES Lot, saving 2 hours per day.
@@ -43,12 +42,12 @@
 > - Data Housekeeping: Developed a Visual Basic .NET tool to automate data housekeeping tasks, freeing up 1~2 hours per day.
 
 **Process Engineer | KX Technologies Singapore Pte. Ltd. (_Feb 2019 - Mar 2022_)**
-- Simulating and testing the new processes and equipment to ensure the functions are desired. Manage installation and qualification of automation equipment.
-- Development, configure, and optimize processes for the launch of new products to mass production.
-- Develop and innovate solutions to continuously improve production rate, yield & quality. Major Achievements:
-- New product sample build, development, and introduction to production.
-- Investigate and resolve problems. Lead to corrective, and manage Engineer changes.
-- Organize Engineering documents such as machine drawings, work instructions, production line qualification reports, and other relevant documents.
+- Leveraged data analytics to simulate and test new processes and equipment, ensuring they functioned optimally.
+- Utilized statistical tools (R) and data visualization tools (Tableau) to develop, configure, and optimize processes before new product launches, ensuring a data-informed transition to mass production.
+- Applied analytics methodologies to innovative solutions that resulted in continuous improvements in production rate, yield, and quality, evidenced by measurable performance indicators.
+- Implemented the use of data in new product sample builds and development, overseeing the introduction to production with a focus on data quality and integrity.
+- Organized engineering documents, including the display and analysis of machine drawings, work instructions, and production line qualification reports, utilizing data visualization tools to represent process efficiencies and areas for improvement.
+
 
 > **Key Project and Achievements:**
 > - Commercial Excellence Achievement Award (Dec 2020)
@@ -60,11 +59,28 @@
 > - Involves HM Global, Kunshan EcoWater, Strauss Water, Thermos, etc.
 
 **Automation Engineer | Meridionale Impianti (Singapore) Pte. Ltd. (_Apri 2013 - Sep 2018_)**
-- PLC (Omron CJ Series/Siemens) software programming modification.
-- Equipment (Gas/Chemical) assembly, set-up, testing, and commissioning.
-- Design validation test on system-level and Hardware (Sensors/Actuators/Circuits). Prepare test protocol report and sourcing for alternative components.
-- Knowledge and experience in reading Electrical/Electronic schematic/Layout/P&ID.
-- Rectifying and troubleshooting electrical/electronic circuits on the faulty system.
-- Equipment (Gas/Chemical/Tool) Life Safety System (LSS) design and installation.
-- Part of the team in discussion, producing, and setting up testers for customers.
-- Prepare and organize Engineering documents such as permits, machine drawings & P&ID, commissioning reports, and other relevant documents.
+- Conducted data analysis and interpretation from equipment testing and commissioning processes, providing valuable insights for process optimization and quality improvement initiatives.
+- Executed design validation tests at both the system and hardware level, utilizing data-driven approaches to assess performance and functionality.
+- Leveraged knowledge and experience in reading electrical/electronic schematics and P&IDs to extract actionable insights for system enhancements and troubleshooting.
+- Collaborated with cross-functional teams in the set-up and installation of Equipment Life Safety Systems (LSS), integrating data analysis for safety protocol development and system efficiency.
+
+> **Key Customers:** 
+> - STMicroelectronics/Micron Fab10/Micron Fab 13/REC Solar.
+>
+> **Key Projects:**
+> - STMicroelectronics EPI Gas Distribution System Project (2017~2018)
+> - STMicroelectronics EPI Special Gas Distribution System Installation (2014~2018)
+> - STMicroelectronics EKC705 Chemical Distribution System Project (2016)
+> - REC Solar Special Gas (HCl/WF6) Distribution System Project (2016) 
+> - Micron FAB10N Special (Cl2) Gas Distribution System Project (2016) 
+> - Micron FAB13 DSI LSS Installation Project (2014~2015)
+> - STMicroelectronics All Gas System SCADA Heartbeat Signal Updating Project (2015)
+
+**Project Engineer | InfoCom & Security System Pte. Ltd. (_April 2009 - Mar 2013_)**
+- Led project for building management system installation on site. Major Project:
+    - Resort World Sentosa partially zones PA system
+    - MOE Institution Intrusion system
+- Testing, commissioning, and handover system to customers.
+- Hands-on troubleshooting of ELV system on-site.
+- Internal & External technical support and training.
+
