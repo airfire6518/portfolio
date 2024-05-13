@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Analyst | Data Scientist | Data Engineer | Automation & Machine Learning
 
 
 #### Technical Skills: Python, SQL, R, MATLAB, Tableau
