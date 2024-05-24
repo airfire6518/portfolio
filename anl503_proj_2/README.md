@@ -71,3 +71,21 @@ Through overcoming these challenges, I honed my data manipulation and visualizat
 ### Conclusion:
 
 The project was a resounding success, providing clear metrics on student engagement that could guide the university in adapting teaching methods to the virtual environment. By transforming raw transcripts into a structured MySQL database and then into R-generated visualizations, I crafted a narrative of class participation that was both informative and accessible. This work stands as a testament to the potential of data analytics in enriching the educational experience and enhancing student interaction in online platforms.
+
+
+## Go to Other Related Data and Automation Projects:
+> **R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_1">Economic Growth & Population Dynamics: A Visual Story of Southeast Asia</a></span><br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_2">Integrating Python with R for Data Scraping and Analysis: A Study on GDP and Innovation</a></span><br>
+>
+> **Python/R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_3">The Singapore HDB Resale Market: 1990-2024</a></span><br>
+>
+> **SQL/R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl503_proj_1">Visual Analysis of University Graduate Survey Data</a></span><br>
+>
+> **Python/SQL/R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl503_proj_2">Insights from Zoom Transcripts: Analyzing Student Engagement in the Digital Classroom</a></span><br>
+>
+> **Python/SQL/Web API/SAP BO/Web GUI/Laravel/PHP:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/infineon_sms">"Sample Management System" - Infineon Technologies</a></span><br>

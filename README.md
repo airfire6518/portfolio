@@ -10,7 +10,7 @@
 - Dip.Electronics   | Republic Polytechnic                    | Dec 2009  |
 
 
-## Data Analysis and Visualisation Project
+## Data Analysis and Automation Project
 > **R:**<br>
 > <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_1">Economic Growth & Population Dynamics: A Visual Story of Southeast Asia</a></span><br>
 > <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_2">Integrating Python with R for Data Scraping and Analysis: A Study on GDP and Innovation</a></span><br>
@@ -23,6 +23,9 @@
 >
 > **Python/SQL/R:**<br>
 > <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl503_proj_2">Insights from Zoom Transcripts: Analyzing Student Engagement in the Digital Classroom</a></span><br>
+>
+> **Python/SQL/Web API/SAP BO/Web GUI/Laravel/PHP:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/infineon_sms">"Sample Management System" - Infineon Technologies</a></span><br>
 
 ## Work Experience
 **Senior Automation Engineer [Specializing in Data & Digitalization Project] | Infineon Technologies A/P Pte. Ltd. (_Apri 2022 - Present_)**

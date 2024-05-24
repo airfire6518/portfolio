@@ -75,3 +75,21 @@ The main challenge I faced in the project was ensuring seamless communication be
 The successful integration of Python and R in this project has driven the development of the project through the application of skills across disciplines. The challenge of ensuring data fidelity through the pipeline between R and Python was a learning curve that greatly enhanced my multilingual programming abilities. The use of mesh packages, in particular, demonstrates the potential for simplifying complex workflows in data science with multiple coding languages. Proficiency in data manipulation, coupled with proficiency in the use of advanced visualization techniques, deepens understanding not only of data analysis, but also of the practical aspects of integrating various technical tools for robust data science practices.
 
 On the other hand, through the investigation, the positive relationship between economic prosperity and innovation is revealed. It is clear from the visual analysis that countries with higher per capita GDP are more inclined to IP creation, as evidenced by their patent filings. This finding is consistent with the economic hypothesis that good financial health is a precursor to productive R&D efforts. The insights gleaned from this study may lead policymakers and business leaders to recognize the critical importance of investing in economic development as a strategy to foster an innovative environment. In future research, exploring more nuanced aspects of this relationship may yield further valuable insights into the mechanisms of innovation in different economic contexts.
+
+
+## Go to Other Related Data and Automation Projects:
+> **R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_1">Economic Growth & Population Dynamics: A Visual Story of Southeast Asia</a></span><br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_2">Integrating Python with R for Data Scraping and Analysis: A Study on GDP and Innovation</a></span><br>
+>
+> **Python/R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_3">The Singapore HDB Resale Market: 1990-2024</a></span><br>
+>
+> **SQL/R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl503_proj_1">Visual Analysis of University Graduate Survey Data</a></span><br>
+>
+> **Python/SQL/R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl503_proj_2">Insights from Zoom Transcripts: Analyzing Student Engagement in the Digital Classroom</a></span><br>
+>
+> **Python/SQL/Web API/SAP BO/Web GUI/Laravel/PHP:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/infineon_sms">"Sample Management System" - Infineon Technologies</a></span><br>

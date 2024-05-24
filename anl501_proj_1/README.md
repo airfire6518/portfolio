@@ -92,3 +92,21 @@ Challenges arose from the need to maintain data integrity during the wrangling p
 ### Conclusion:
 
 This project is a testament to the capacity of data visualization to reveal and narrate the development journey of Southeast Asia. It highlights my ability to navigate complex datasets, extract meaningful insights, and present them in an engaging and informative manner. My portfolio now exemplifies a fusion of analytical precision and creative visualization, showcasing my dedication to transforming data into actionable intelligence. The insights yielded from this analysis serve as a powerful tool for policymakers, educators, and researchers interested in the socio-economic fabric of the ASEAN region.
+
+
+## Go to Other Related Data and Automation Projects:
+> **R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_1">Economic Growth & Population Dynamics: A Visual Story of Southeast Asia</a></span><br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_2">Integrating Python with R for Data Scraping and Analysis: A Study on GDP and Innovation</a></span><br>
+>
+> **Python/R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_3">The Singapore HDB Resale Market: 1990-2024</a></span><br>
+>
+> **SQL/R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl503_proj_1">Visual Analysis of University Graduate Survey Data</a></span><br>
+>
+> **Python/SQL/R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl503_proj_2">Insights from Zoom Transcripts: Analyzing Student Engagement in the Digital Classroom</a></span><br>
+>
+> **Python/SQL/Web API/SAP BO/Web GUI/Laravel/PHP:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/infineon_sms">"Sample Management System" - Infineon Technologies</a></span><br>

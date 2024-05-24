@@ -130,3 +130,21 @@ The R program modifications made to include this metric were explained, along wi
 ### Conclusion:
 
 The project solidified my position as a versatile data analyst capable of transforming complex datasets into accessible and actionable insights. The visualizations I created offered the university a nuanced understanding of student satisfaction across various programs, facilitating data-driven decisions to enhance educational services. My approach to database and visualization optimization not only conserved resources but also elevated the analytics process. Through these efforts, I have shown that I can tackle both the technical and conceptual challenges inherent in data analysis, producing work that stands out for its clarity, utility, and technical soundness. The experience has been a testament to the power of combining analytical rigor with visual storytelling, and I look forward to applying these skills to future projects that require a deep understanding of both the data and its broader implications.
+
+
+## Go to Other Related Data and Automation Projects:
+> **R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_1">Economic Growth & Population Dynamics: A Visual Story of Southeast Asia</a></span><br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_2">Integrating Python with R for Data Scraping and Analysis: A Study on GDP and Innovation</a></span><br>
+>
+> **Python/R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_3">The Singapore HDB Resale Market: 1990-2024</a></span><br>
+>
+> **SQL/R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl503_proj_1">Visual Analysis of University Graduate Survey Data</a></span><br>
+>
+> **Python/SQL/R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl503_proj_2">Insights from Zoom Transcripts: Analyzing Student Engagement in the Digital Classroom</a></span><br>
+>
+> **Python/SQL/Web API/SAP BO/Web GUI/Laravel/PHP:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/infineon_sms">"Sample Management System" - Infineon Technologies</a></span><br>

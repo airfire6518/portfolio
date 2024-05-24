@@ -339,3 +339,20 @@ It starts with data pre-processing, where the dataset is subsetted, aggregated, 
 ### 6. Conclusion:
 Through the process of data analysis of the resale market of HDB dstaset from 1990 to 2024, it has revealed several important insights. These include the positive relationship between resale price and floor area, distinct distribution of flat type across specific towns, and the relationship between average resale price per square foot and time. Additionally, the impact of significant events such as the “Asian Financial Crisis” and “Covid-19” on resale prices has been highlighted. The findings provide valuable implications for understanding the HDB resale market in Singapore.The variation of resale prices across different flat types, remaining lease intervals, and specific towns indicates the influence of multiple factors such as housing preference, affordability, and market trends. Furthermore, the spatial visualisation of average price per square foot by different areas over the years 2019 to 2024 offers crucial insights into the distribution of the real estate metrics, enabling a clear understanding of the variations in property values across different locations within Singapore. The data analysis presented opens avenues for further research, including the more detailed exploration of the other factors that may influence resale price, and the impact of external events on the resale market.
 
+
+## Go to Other Related Data and Automation Projects:
+> **R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_1">Economic Growth & Population Dynamics: A Visual Story of Southeast Asia</a></span><br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_2">Integrating Python with R for Data Scraping and Analysis: A Study on GDP and Innovation</a></span><br>
+>
+> **Python/R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl501_proj_3">The Singapore HDB Resale Market: 1990-2024</a></span><br>
+>
+> **SQL/R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl503_proj_1">Visual Analysis of University Graduate Survey Data</a></span><br>
+>
+> **Python/SQL/R:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/anl503_proj_2">Insights from Zoom Transcripts: Analyzing Student Engagement in the Digital Classroom</a></span><br>
+>
+> **Python/SQL/Web API/SAP BO/Web GUI/Laravel/PHP:**<br>
+> <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/infineon_sms">"Sample Management System" - Infineon Technologies</a></span><br>
