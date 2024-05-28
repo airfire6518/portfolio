@@ -28,7 +28,7 @@
 > <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/infineon_sms">"Sample Management System" - Infineon Technologies</a></span><br>
 
 ## Work Experience
-**Senior Automation Engineer [Specializing in Data & Digitalization Project] | Infineon Technologies A/P Pte. Ltd. (_Apri 2022 - Present_)**
+**Data Analytics Engineer [Specializing in Data & Digitalization Automation Role] | Infineon Technologies A/P Pte. Ltd. (_Apri 2022 - Present_)**
 - Orchestrated comprehensive automation and digitalization projects, from initial design to deployment. Leveraged data analytics to guide each phase and ensure adherence to a data-centric structured methodology. (Methodologies involved: SQL, Python, PHP, etc.)
 - Enhanced departmental performance by providing key data insights, and contributing to the achievement of productivity targets, quality improvement, and personnel efficiency goals.
 - Developed automation and AI-related initiatives, translating complex datasets into tangible business outcomes.
