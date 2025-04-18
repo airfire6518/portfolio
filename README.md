@@ -28,7 +28,21 @@
 > <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/infineon_sms">"Sample Management System" - Infineon Technologies</a></span><br>
 
 ## Work Experience
-**Data Analytics Engineer [Specializing in Data & Digitalization Automation Role] | Infineon Technologies A/P Pte. Ltd. (_Apri 2022 - Present_)**
+**Data Engineer | Esri Singapore Pte. Ltd. (_Mar 2024 - Present_)**
+- 1) Data Engineer tasks for batch jobs of PUB project, focusing on geospatial data workflows using ArcGIS Pro, Python, and SQL, ensuring seamless data pipeline orchestration.
+- 2) Utilized Python (ArcPy) to design custom geoprocessing tools for importing, cleaning, and transforming spatial datasets.
+- 3) Automated batch job processing using Python scripts integrated with APIs and SQL, supporting scalable and reusable data transformation pipelines for geodatabase exports, map layers updates.
+- 4) Convert (TSS5  TSS6) and maintained complex ArcGIS Model Builder models to enable dynamic and automated multi-layer geospatial processing workflows. 
+- 5) Ensured data consistency, accuracy, and integrity throughout the data management lifecycle.
+- 6) Identify and resolve data-related issues, such as data quality and performance bottlenecks.
+- 7) Collaborate cross-functionally with GIS Analyst, developer, and project manager to align geospatial workflows with backend systems required by customer (PUB).
+
+  
+> **Key Customer and Projects:**
+> - Multiple batch jobs for PUB project: Developed and maintained automated pipelines for data import and export, integrating geospatial data generation, feature class and annotation updates, ZIP packaging, and seamless file export and upload to the Submit Retrieve web server.
+
+
+**Data Analytics Engineer [Specializing in Data & Digitalization Automation Role] | Infineon Technologies A/P Pte. Ltd. (_Apr 2022 - Mar 2024_)**
 - 1) Orchestrated comprehensive automation and digitalization projects, from initial design to deployment. Leveraged data analytics to guide each phase and ensure adherence to a data-centric structured methodology. (Methodologies involve: SQL, Python, R, PHP, etc.)
 - 2) Enhanced departmental performance by providing key data insights, and contributing to the achievement of productivity targets, quality improvement, and personnel efficiency goals.
 - 3) Developed automation and AI-related initiatives, translating complex datasets into tangible business outcomes.
@@ -44,6 +58,7 @@
 > - Data Visualization: Created product reports using Tableau/R to facilitate better decision-making for internal stakeholders.
 > - NPI(New Project Introduction) Digitalization: Implemented an automation process and improved workflow using the Sharepoint system.
 > - Data Housekeeping: Developed a Visual Basic .NET tool to automate data housekeeping tasks, freeing up 1~2 hours daily.
+
 
 **Process Engineer | KX Technologies Singapore Pte. Ltd. (_Feb 2019 - Mar 2022_)**
 - 1) Employed statistical analysis tools, including R, and data visualization platforms like Tableau, to refine and improve operational processes ahead of new product launches, guaranteeing a data-informed and seamless transition to mass production.
