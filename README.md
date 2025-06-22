@@ -1,7 +1,7 @@
 # Data Analyst | Data Engineer | Data Scientist | Automation & Machine Learning
 
 
-#### Technical Skills: Python, SQL, R, Tableau, Git, etc.
+#### Technical Skills: Python, SQL, R, Tableau, Azure DevOps, Git, Jira, etc.
 
 
 ## Education
@@ -43,7 +43,8 @@
 > - Multiple batch jobs for PUB project: Developed and maintained automated pipelines for data import and export, integrating geospatial data generation, feature class and annotation updates, ZIP packaging, and seamless file export and upload to the Submit Retrieve web server.
 
 
-**Data Analytics Engineer [Specializing in Data & Digitalization Automation Role] | Infineon Technologies A/P Pte. Ltd. (_Dec 2021 - Mar 2024_)**
+**Data Analytics Engineer [Specializing in Data & Digitalization Automation Role] | Infineon Technologies A/P Pte. Ltd.**   
+**(_Dec 2021 - Mar 2024_)**
 - 1) Orchestrated comprehensive automation and digitalization projects, from initial design to deployment. Leveraged data analytics to guide each phase and ensure adherence to a data-centric structured methodology. (Methodologies involve: SQL, Python, R, PHP, etc.)
 - 2) Enhanced departmental performance by providing key data insights, and contributing to the achievement of productivity targets, quality improvement, and personnel efficiency goals.
 - 3) Developed automation and AI-related initiatives, translating complex datasets into tangible business outcomes.
@@ -61,7 +62,8 @@
 > - Data Housekeeping: Developed a Visual Basic .NET tool to automate data housekeeping tasks, freeing up 1~2 hours daily.
 
 
-**Process Engineer | KX Technologies Singapore Pte. Ltd. (_Dec 2018 - Dec 2021_)**
+**Process Engineer | KX Technologies Singapore Pte. Ltd.**   
+**(_Dec 2018 - Dec 2021_)**
 - 1) Employed statistical analysis tools, including R, and data visualization platforms like Tableau, to refine and improve operational processes ahead of new product launches, guaranteeing a data-informed and seamless transition to mass production.
 - 2) Leveraged advanced analytics methodologies to drive innovative solutions that consistently improved production rates, yields, and quality, with results evidenced by definable performance metrics.
 - 3) Led the adoption of data-driven methods in developing and building new prototypes, guaranteeing a smooth progression to production.
@@ -78,7 +80,8 @@
 > - Involves projects for HM Global, Kunshan EcoWater, Strauss Water & Thermos products, etc.
 
 
-**Automation Engineer | Meridionale Impianti (Singapore) Pte. Ltd. (_Apri 2013 - Dec 2018_)**
+**Automation Engineer | Meridionale Impianti (Singapore) Pte. Ltd.**  
+**(_Apri 2013 - Dec 2018_)**
 - 1) Conducted design validation testing at both system (PLC) and hardware levels using data-driven methodologies to evaluate performance and functionality.
 - 2) Analyzed mechanical drawings and guided contractors on machine assembly processes.
 - 3) Responsible for the setup, configuration, testing, and commissioning of equipment.
@@ -98,7 +101,8 @@
 > - Micron FAB13 DSI LSS Installation Project (2014~2015)
 > - STMicroelectronics All Gas System SCADA Heartbeat Signal Updating Project (2015)
 
-**Project Engineer | InfoCom & Security System Pte. Ltd. (_April 2009 - Mar 2013_)**
+**Project Engineer | InfoCom & Security System Pte. Ltd.**  
+**(_April 2009 - Mar 2013_)**
 - 1) Led project for building management system installation on site. Major Project:
     - BMS system for Resort World Sentosa partially zones
     - BMS system for MOE schools
