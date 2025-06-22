@@ -33,7 +33,7 @@
 - 1) Data Engineer tasks for batch jobs of PUB project, focusing on geospatial data workflows using ArcGIS Pro, Python, and SQL, ensuring seamless data pipeline orchestration.
 - 2) Utilized Python (ArcPy) to design custom geoprocessing tools for importing, cleaning, and transforming spatial datasets.
 - 3) Automated batch job processing using Python scripts integrated with APIs and SQL, supporting scalable and reusable data transformation pipelines for geodatabase exports, map layers updates.
-- 4) Convert (TSS5  TSS6) and maintained complex ArcGIS Model Builder models to enable dynamic and automated multi-layer geospatial processing workflows. 
+- 4) Convert (TSS5 to TSS6) and maintained complex ArcGIS Model Builder models to enable dynamic and automated multi-layer geospatial processing workflows. 
 - 5) Ensured data consistency, accuracy, and integrity throughout the data management lifecycle.
 - 6) Identify and resolve data-related issues, such as data quality and performance bottlenecks.
 - 7) Collaborate cross-functionally with GIS Analyst, developer, and project manager to align geospatial workflows with backend systems required by customer (PUB).
