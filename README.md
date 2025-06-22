@@ -5,9 +5,10 @@
 
 
 ## Education
-- M.S.Data Analysis | Singapore University of Social Sciences | Pursuing  |
-- B.A.Electronics   | Singapore University of Social Sciences | Dec 2022  |
-- Dip.Electronics   | Republic Polytechnic                    | Dec 2009  |
+- M.S.Data Analytics      | Singapore University of Social Sciences | Pursuing  |
+- Grad.Dip.Data Analytics | Singapore University of Social Sciences | Apr 2025  |
+- B.A.Electronics         | Singapore University of Social Sciences | Dec 2022  |
+- Dip.Electronics         | Republic Polytechnic                    | Dec 2009  |
 
 
 ## Data Analysis and Automation Project
@@ -42,7 +43,7 @@
 > - Multiple batch jobs for PUB project: Developed and maintained automated pipelines for data import and export, integrating geospatial data generation, feature class and annotation updates, ZIP packaging, and seamless file export and upload to the Submit Retrieve web server.
 
 
-**Data Analytics Engineer [Specializing in Data & Digitalization Automation Role] | Infineon Technologies A/P Pte. Ltd. (_Apr 2022 - Mar 2024_)**
+**Data Analytics Engineer [Specializing in Data & Digitalization Automation Role] | Infineon Technologies A/P Pte. Ltd. (_Dec 2021 - Mar 2024_)**
 - 1) Orchestrated comprehensive automation and digitalization projects, from initial design to deployment. Leveraged data analytics to guide each phase and ensure adherence to a data-centric structured methodology. (Methodologies involve: SQL, Python, R, PHP, etc.)
 - 2) Enhanced departmental performance by providing key data insights, and contributing to the achievement of productivity targets, quality improvement, and personnel efficiency goals.
 - 3) Developed automation and AI-related initiatives, translating complex datasets into tangible business outcomes.
@@ -60,7 +61,7 @@
 > - Data Housekeeping: Developed a Visual Basic .NET tool to automate data housekeeping tasks, freeing up 1~2 hours daily.
 
 
-**Process Engineer | KX Technologies Singapore Pte. Ltd. (_Feb 2019 - Mar 2022_)**
+**Process Engineer | KX Technologies Singapore Pte. Ltd. (_Dec 2018 - Dec 2021_)**
 - 1) Employed statistical analysis tools, including R, and data visualization platforms like Tableau, to refine and improve operational processes ahead of new product launches, guaranteeing a data-informed and seamless transition to mass production.
 - 2) Leveraged advanced analytics methodologies to drive innovative solutions that consistently improved production rates, yields, and quality, with results evidenced by definable performance metrics.
 - 3) Led the adoption of data-driven methods in developing and building new prototypes, guaranteeing a smooth progression to production.
@@ -77,7 +78,7 @@
 > - Involves projects for HM Global, Kunshan EcoWater, Strauss Water & Thermos products, etc.
 
 
-**Automation Engineer | Meridionale Impianti (Singapore) Pte. Ltd. (_Apri 2013 - Sep 2018_)**
+**Automation Engineer | Meridionale Impianti (Singapore) Pte. Ltd. (_Apri 2013 - Dec 2018_)**
 - 1) Conducted design validation testing at both system (PLC) and hardware levels using data-driven methodologies to evaluate performance and functionality.
 - 2) Analyzed mechanical drawings and guided contractors on machine assembly processes.
 - 3) Responsible for the setup, configuration, testing, and commissioning of equipment.
