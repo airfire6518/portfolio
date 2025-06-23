@@ -5,10 +5,9 @@
 
 
 ## Education
-- M.S.Data Analytics      | Singapore University of Social Sciences | Pursuing  |
-- Grad.Dip.Data Analytics | Singapore University of Social Sciences | Apr 2025  |
-- B.A.Electronics         | Singapore University of Social Sciences | Dec 2022  |
-- Dip.Electronics         | Republic Polytechnic                    | Dec 2009  |
+- M.S.Data Analytics | Singapore University of Social Sciences | Pursuing  |
+- B.A.Electronics    | Singapore University of Social Sciences | Dec 2022  |
+- Dip.Electronics    | Republic Polytechnic                    | Dec 2009  |
 
 
 ## Data Analysis and Automation Project
