@@ -9,9 +9,10 @@
 
 
 ## Education
-- M.S.Data Analytics [Singapore University of Social Sciences] (Pursuing)
-- B.A.Electronics    [Singapore University of Social Sciences] (Dec 2022)
-- Dip.Electronics    [Republic Polytechnic] (Dec 2009)
+- M.S.Data Analytics [Singapore University of Social Sciences]  
+  (Pursuing)
+- B.A.Electronics [Singapore University of Social Sciences] (Dec 2022)
+- Dip.Electronics [Republic Polytechnic] (Dec 2009)
 
 
 ## Data Analysis and Automation Project
@@ -32,7 +33,8 @@
 > <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/infineon_sms">"Sample Management System" - Infineon Technologies</a></span><br>
 
 ## Work Experience
-**Data Engineer | Esri Singapore Pte. Ltd. (_Mar 2024 - Present_)**
+**Data Engineer | Esri Singapore Pte. Ltd.** 
+**(_Mar 2024 - Present_)**
 - 1) Data Engineer tasks for batch jobs of PUB project, focusing on geospatial data workflows using ArcGIS Pro, Python, and SQL, ensuring seamless data pipeline orchestration.
 - 2) Utilized Python (ArcPy) to design custom geoprocessing tools for importing, cleaning, and transforming spatial datasets.
 - 3) Automated batch job processing using Python scripts integrated with APIs and SQL, supporting scalable and reusable data transformation pipelines for geodatabase exports, map layers updates.
