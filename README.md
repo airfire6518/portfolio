@@ -33,7 +33,7 @@
 > <span style="font-size: 75%;"><a href="https://airfire6518.github.io/portfolio/infineon_sms">"Sample Management System" - Infineon Technologies</a></span><br>
 
 ## Work Experience
-**Data Engineer | Esri Singapore Pte. Ltd.** 
+**Data Engineer | Esri Singapore Pte. Ltd.**   
 **(_Mar 2024 - Present_)**
 - 1) Data Engineer tasks for batch jobs of PUB project, focusing on geospatial data workflows using ArcGIS Pro, Python, and SQL, ensuring seamless data pipeline orchestration.
 - 2) Utilized Python (ArcPy) to design custom geoprocessing tools for importing, cleaning, and transforming spatial datasets.
