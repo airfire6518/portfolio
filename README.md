@@ -1,11 +1,11 @@
 # Data Analyst | Data Engineer | Data Scientist | Automation & Machine Learning
 
 
-### Skills: 
-#### Data Engineering: ETL / SQL / Python / R / WebAPI 
-#### Analytics & Visualisation: Tableau / Data Modelling / Data Processing
-#### Platform: CI/CD (DevOps) / Version Control (GitHub/BitBucket/Azure DevOps)
-#### Workflow & Collaboration: Jira (Agile Methodology)/ Sharepoint / UAT 
+#### Skills: 
+- Data Engineering: ETL / SQL / Python / R / WebAPI 
+- Analytics & Visualisation: Tableau / Data Modelling / Data Processing
+- Platform: CI/CD (DevOps) / Version Control (GitHub/BitBucket/Azure DevOps)
+- Workflow & Collaboration: Jira (Agile Methodology)/ Sharepoint / UAT 
 
 
 ## Education
