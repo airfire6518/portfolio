@@ -1,7 +1,11 @@
 # Data Analyst | Data Engineer | Data Scientist | Automation & Machine Learning
 
 
-#### Technical Skills: Python, SQL, R, Tableau, Azure DevOps, Git, Jira, etc.
+### Skills: 
+#### Data Engineering: ETL / SQL / Python / R / WebAPI 
+#### Analytics & Visualisation: Tableau / Data Modelling / Data Processing
+#### Platform: CI/CD (DevOps) / Version Control (GitHub/BitBucket/Azure DevOps)
+#### Workflow & Collaboration: Jira (Agile Methodology)/ Sharepoint / UAT 
 
 
 ## Education
