@@ -4,5 +4,6 @@ logo: img/ray.jpg
 description: <a href="https://airfire6518.github.io/portfolio/">Return to My Main Page</a>
 # show_downloads: true
 # theme: jekyll-theme-minimal
+# theme: jekyll-theme-cayman
 # theme: jekyll-theme-architect
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
