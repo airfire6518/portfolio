@@ -89,5 +89,5 @@ Data Engineer / Data Automation Analyst with experience in Python, SQL, Databric
 ## Contact
 
 - **Email:** wanglei6518@yahoo.com
-- **LinkedIn:** [linkedin.com/in/ray-wang-666](https://www.linkedin.com/in/ray-wang-666/)
+- **LinkedIn:** [linkedin.com/in/ray-wang-666](https://www.linkedin.com/in/ray-wang666/)
 - **Portfolio:** [airfire6518.github.io/portfolio](https://airfire6518.github.io/portfolio/)

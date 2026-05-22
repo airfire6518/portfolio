@@ -3,4 +3,5 @@ description: Career Deveplopment
 logo: img/ray.jpg
 description: <a href="https://airfire6518.github.io/portfolio/">Return to My Main Page</a>
 # show_downloads: true
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
