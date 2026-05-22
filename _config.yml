@@ -1,10 +1,10 @@
-title: Ray Wang
-description: Career Deveplopment
-logo: img/ray.jpg
+# title: Ray Wang
+# description: Career Deveplopment
+# logo: img/ray.jpg
 description: <a href="https://airfire6518.github.io/portfolio/">Return to My Main Page</a>
 # show_downloads: true
 # theme: jekyll-theme-minimal
-# theme: jekyll-theme-slate
+theme: jekyll-theme-slate
 # theme: jekyll-theme-cayman
+# theme: jekyll-theme-midnight
 # theme: jekyll-theme-architect
-theme: jekyll-theme-midnight
