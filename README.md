@@ -55,7 +55,7 @@ Data Engineer / Data Automation Analyst with experience in Python, SQL, Databric
 - Automated spatial data import/export, feature class updates, annotation updates, and file packaging workflows.
 - Worked with GIS analysts, developers, and project managers to support customer-specific data workflow requirements.
 
-### Data Analytics Engineer | Infineon Technologies
+### Data Automation Engineer | Infineon Technologies
 **Dec 2021 - Mar 2024**
 
 - Designed and implemented a Sample Management System using MySQL, Python, PHP, and Bitbucket to replace manual tracking workflows.
