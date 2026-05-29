@@ -37,7 +37,7 @@ Data Engineer / Data Automation Analyst with experience in Python, SQL, Databric
 
 ## Work Experience
 
-### Data Automation Analyst | HP Inc. (Contract)
+### Data Analytices Engineer | HP Inc. (Contract)
 **Sep 2025 - Present**
 
 - Developed SQL and PySpark logic in Databricks to analyze product telemetry, PSA driver adoption, firmware rollout, support case trends, and device-level behavior.
